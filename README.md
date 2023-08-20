@@ -19,4 +19,3 @@ To contribute in the success of a business by utilizing data analysis techniques
 3. Profits are maximum in the month of March, October and December.
 # Learning :
 Incorporated data analysis techniques , specializing in time series analysis, to deliver valuable insights, accurate sales forecasting and interactive dashboard creation to drive business successfully .
-5. 
